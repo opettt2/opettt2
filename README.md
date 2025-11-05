@@ -1,73 +1,86 @@
 ### 👋 Hi, I'm Faith Greatfull Samuel Taressy
 
-**Cybersecurity Enthusiast • Python & Automation • Web Development Learner**
+**Cybersecurity-Driven Junior Web & Software Developer**  
+Python • Laravel • Linux • Network Automation • Threat Analysis
 
-I'm passionate about **cybersecurity** — especially network security, threat detection, and system hardening.  
-I enjoy exploring how systems work, how they break, and how to secure them.
+I’m building my path with a **security-first mindset** — understanding systems, securing them, and building tools & apps around them. My core interest is **Cybersecurity & Network Security**, supported by practical skills in **Web Development and Automation**.
 
-Along the way, I build supporting skills in **web development**, **Linux**, **network automation**, and **machine learning security research**.
+> I believe modern cybersecurity engineers should understand how applications are built — and secure them end-to-end.
 
 ---
 
-### 🔐 Cybersecurity Focus
+### 🔐 Cyber & Networking Focus
 
 - Network & infrastructure security fundamentals  
-- IDS/IPS (Snort) labs & packet analysis  
-- Behavior-based malware detection experiments  
-- Linux administration & security basics  
-- Network topology & segmentation (GNS3, MikroTik, HP ProCurve)
+- Snort IDS labs & traffic analysis  
+- Linux administration & basic hardening
+- Router & VLAN configs (GNS3, MikroTik, HP Procurve)
+- Security-aware software development mindset
 
 ---
 
-### ⚙️ Tech Stack & Tools
+### 💻 Web & Software Engineering
 
-**Security & Networking**
-- Snort IDS • Nmap • MikroTik • GNS3  
-- HP ProCurve • Firewalls • VLANs • Routing  
-
-**Automation & Scripting**
-- Python • Paramiko • Netmiko • SNMP (pysnmp)
-
-**Machine Learning / Research**
-- Scikit-Learn • TensorFlow • Pandas • NumPy  
-- PCA, Isolation Forest, LSTM (malware behavior & anomaly models)
-
-**Web Dev**
-- Laravel • PHP • HTML • CSS • JS • Bootstrap
-
-**Tools**
-- Git/GitHub • Figma • VS Code • Google Colab • Linux
+- Laravel backend fundamentals
+- UI implementation (HTML, CSS, JS, Bootstrap)
+- REST API consumption & JSON integration
+- Figma to front-end workflow
+- Collaboration w/ backend developers
 
 ---
 
-### 📂 Highlighted Projects
+### ⚙️ Tech Stack
 
-| Project | Field |
-|--------|--------|
+**Security & Networking**  
+Snort • Nmap • MikroTik • GNS3 • VLANs/Routing • HP ProCurve  
+
+**Web Development**  
+Laravel • PHP • JavaScript • Bootstrap • HTML/CSS  
+
+**Automation & Scripting**  
+Python • Paramiko • Netmiko • SNMP (pysnmp)  
+
+**ML (Security-focused)**  
+Pandas • NumPy • Scikit-Learn • TensorFlow  
+(LSTM, PCA, Isolation Forest malware/anomaly models)
+
+**Tools**  
+Linux • Git/GitHub • VS Code • Google Colab • Figma
+
+---
+
+### 📂 Featured Projects
+
+| Project | Focus |
+|--------|-------|
 🛡️ Malware Classification (RF + LSTM) | Cybersecurity + ML  
-📊 Battery Anomaly Detection (PCA & IF) | Data Science + ML  
-⚙️ Network Automation & SNMP Script | Automation + Networking  
-🍽️ Recipe App (Laravel + API) | Web Dev  
-📱 Rentalku UI (Figma) | UI Design + Product Flow
+📊 Battery Anomaly Detection | Anomaly detection logic  
+⚙️ SNMP & Network Automation Script | Python + Networking  
+🍽️ Recipe Finder App (Laravel + API) | Web Dev + UI implementation  
+📱 Rentalku Mobile UI (Figma) | Product design + UX  
 
-> Pinned repos show my active journey across security, scripting, and development.
-
----
-
-### 🎯 Mission
-
-To become a **well-rounded cybersecurity engineer**  
-who can **secure systems, automate defenses, and build tools** — not just use them.
-
-Security mindset + development skill = power ⚔️💻
+> Security foundation + real web development & automation experience.
 
 ---
 
-### 📫 Connect with Me
+### 🎯 Career Mission
+
+To grow into a **Cybersecurity Engineer** who can:
+
+- Secure systems and networks
+- Automate security & network workflows
+- Understand and build modern web applications
+- Develop security tools powered by ML
+
+> **Security + Development = Complete Engineer**
+
+---
+
+### 📫 Connect With Me
 
 📧 **faithtaressy043@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/faithtaressy
 
 ---
 
-> Still learning. Still hacking (ethically). Always building.
+> Always learning. Always building. Security-first mindset ⚔️💻
