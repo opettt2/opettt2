@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Faith Taressy
 
-**IT Enthusiast **  
+**IT Enthusiast**
 Cybersecurity • Python • Laravel • PHP • Linux • Networking
 
 ---
